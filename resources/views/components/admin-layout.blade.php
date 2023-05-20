@@ -10,7 +10,8 @@
     />
     <meta name="generator" content="Hugo 0.104.2" />
     <title>Dashboard Template · Bootstrap v5.2</title>
-    @vite('resources/js/admin.js')
+    {{-- @vite('resources/js/admin.js') --}}
+    @vite('resources/js/app.js')
     <link
       rel="canonical"
       href="https://getbootstrap.com/docs/5.2/examples/dashboard/"

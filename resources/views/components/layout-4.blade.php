@@ -11,7 +11,8 @@
     <meta name="author" content="" />
 
     <title>BackGate</title>
-    @vite('resources/js/admin-4.js')
+    {{-- @vite('resources/js/admin-4.js') --}}
+    @vite('resources/js/app.js')
   </head>
 
   <body class="myBody w-100" id="page-top">
