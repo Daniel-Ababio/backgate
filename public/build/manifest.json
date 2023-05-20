@@ -1,0 +1,78 @@
+{
+  "_all.min-cc5a376f.js": {
+    "css": [
+      "assets/all-3dd2333c.css"
+    ],
+    "file": "assets/all.min-cc5a376f.js"
+  },
+  "_bootstrap.bundle.min-6536ab69.js": {
+    "file": "assets/bootstrap.bundle.min-6536ab69.js"
+  },
+  "all.css": {
+    "file": "assets/all-3dd2333c.css",
+    "src": "all.css"
+  },
+  "main.css": {
+    "file": "assets/main-e40e43f7.css",
+    "src": "main.css"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/admin-4.css": {
+    "file": "assets/admin-4-c0a8b96b.css",
+    "src": "resources/js/admin-4.css"
+  },
+  "resources/js/admin-4.js": {
+    "css": [
+      "assets/admin-4-c0a8b96b.css",
+      "assets/main-e40e43f7.css"
+    ],
+    "file": "assets/admin-4-fbe6da40.js",
+    "imports": [
+      "_all.min-cc5a376f.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/admin-4.js"
+  },
+  "resources/js/admin-5.js": {
+    "css": [
+      "assets/main-e40e43f7.css"
+    ],
+    "file": "assets/admin-5-47c6207f.js",
+    "imports": [
+      "_all.min-cc5a376f.js",
+      "_bootstrap.bundle.min-6536ab69.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/admin-5.js"
+  },
+  "resources/js/admin.js": {
+    "file": "assets/admin-130353f7.js",
+    "imports": [
+      "_all.min-cc5a376f.js",
+      "_bootstrap.bundle.min-6536ab69.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/admin.js"
+  },
+  "resources/js/app-layout.js": {
+    "css": [
+      "assets/main-e40e43f7.css"
+    ],
+    "file": "assets/app-layout-47c6207f.js",
+    "imports": [
+      "_all.min-cc5a376f.js",
+      "_bootstrap.bundle.min-6536ab69.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app-layout.js"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-68e8fc8f.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
