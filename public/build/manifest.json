@@ -8,9 +8,22 @@
   "_bootstrap.bundle.min-6536ab69.js": {
     "file": "assets/bootstrap.bundle.min-6536ab69.js"
   },
+  "_dashboard-222e6989.js": {
+    "file": "assets/dashboard-222e6989.js"
+  },
+  "_datatables-demo-cdb08ce6.js": {
+    "css": [
+      "assets/datatables-demo-c0a8b96b.css"
+    ],
+    "file": "assets/datatables-demo-cdb08ce6.js"
+  },
   "all.css": {
     "file": "assets/all-3dd2333c.css",
     "src": "all.css"
+  },
+  "datatables-demo.css": {
+    "file": "assets/datatables-demo-c0a8b96b.css",
+    "src": "datatables-demo.css"
   },
   "main.css": {
     "file": "assets/main-e40e43f7.css",
@@ -21,18 +34,14 @@
     "isEntry": true,
     "src": "resources/css/app.css"
   },
-  "resources/js/admin-4.css": {
-    "file": "assets/admin-4-c0a8b96b.css",
-    "src": "resources/js/admin-4.css"
-  },
   "resources/js/admin-4.js": {
     "css": [
-      "assets/admin-4-c0a8b96b.css",
       "assets/main-e40e43f7.css"
     ],
-    "file": "assets/admin-4-fbe6da40.js",
+    "file": "assets/admin-4-32cedb65.js",
     "imports": [
-      "_all.min-cc5a376f.js"
+      "_all.min-cc5a376f.js",
+      "_datatables-demo-cdb08ce6.js"
     ],
     "isEntry": true,
     "src": "resources/js/admin-4.js"
@@ -50,10 +59,11 @@
     "src": "resources/js/admin-5.js"
   },
   "resources/js/admin.js": {
-    "file": "assets/admin-130353f7.js",
+    "file": "assets/admin-316671ba.js",
     "imports": [
       "_all.min-cc5a376f.js",
-      "_bootstrap.bundle.min-6536ab69.js"
+      "_bootstrap.bundle.min-6536ab69.js",
+      "_dashboard-222e6989.js"
     ],
     "isEntry": true,
     "src": "resources/js/admin.js"
@@ -71,7 +81,16 @@
     "src": "resources/js/app-layout.js"
   },
   "resources/js/app.js": {
-    "file": "assets/app-68e8fc8f.js",
+    "css": [
+      "assets/main-e40e43f7.css"
+    ],
+    "file": "assets/app-1dc3a7f6.js",
+    "imports": [
+      "_all.min-cc5a376f.js",
+      "_bootstrap.bundle.min-6536ab69.js",
+      "_dashboard-222e6989.js",
+      "_datatables-demo-cdb08ce6.js"
+    ],
     "isEntry": true,
     "src": "resources/js/app.js"
   }
