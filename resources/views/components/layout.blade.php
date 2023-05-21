@@ -69,7 +69,6 @@
 } /*# sourceMappingURL=main.css.map */
 
   </style>
-    </style>
 
     <body class="bg-black bodyClass">
         {{-- @yield('content') --}}
